@@ -7,7 +7,7 @@ Este repositório contém os projetos desenvolvidos no decorrer da Formação AD
 
 -Para rodar o arquivo localmente, certifique-se que as variáveis "descompactar" (notebook dos preços) ou a variável "rodando_localmente" (notebook dos tributos) estão marcadas como True
 
--Certifique-se também de instalar as bibliotecas: pandas, numpy, matplotlib, seaborn, geopandas, xlrd e mpl_toolkits no seu ENV 
+-Certifique-se também de instalar as bibliotecas: pandas, numpy, matplotlib, seaborn, geopandas, plotly, xlrd e mpl_toolkits no seu ENV 
 
 -Realizamos esse trabalho em conjunto partindo de um projeto da iniciativa Santander Coders 2023, lecionados pela ADA Tech na disciplina Técnicas de Programação I
 
