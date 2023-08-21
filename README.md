@@ -3,7 +3,19 @@ Este repositório contém os projetos desenvolvidos no decorrer da Formação AD
 
 # Projeto_Técnicas_Programação_II
 
-Instrutor: Alex Lima
+**Execução**
+
+-Para rodar o arquivo localmente, certifique-se que a variável "descompactar" está marcada como True na segunda célula
+
+-Certifique-se também de instalar as bibliotecas: pandas, numpy, matplotlib, seaborn, geopandas e mpl_toolkits, plotly e calendar no seu ENV 
+
+-Realizamos esse trabalho em conjunto partindo de um projeto da iniciativa Santander Coders 2023, lecionados pela ADA Tech na disciplina Técnicas de Programação I
+
+**Projeto - Técnicas de Programação I**
+
+-Instrutor: Alex Lima
+
+-Auxiliar: Maurício
 
 **Equipe: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion**
 
