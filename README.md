@@ -1,6 +1,47 @@
 # Formacao_ADA_Modulos
 Este repositório contém os projetos desenvolvidos no decorrer da Formação ADA de Data Science
 
+# Projeto_Lógica_de_Programação_II
+Nesse projeto iremos focar no conhecimento adquirido durante o módulo de lógica de programação II.
+
+Utilizaremos as estruturas de dados (tuplas, listas, dicionários) além da lógica de programação (if/else, while, e for), lembre-se das compreensões de listas e dicionários. E utilize as técnicas e algoritmos que achar necessário para realizar o projeto. A ideia é que no projeto sejam utilizados o maior número possível de recursos que foram aprendidos durante o módulo.
+
+### Critérios de avaliação
+
+Os seguintes itens serão avaliados:
+
+1. Reprodutibilidade do código: seu código será executado e precisa gerar os mesmos resultados apresentados por você;
+
+2. Clareza: seu código precisa ser claro e deve existir uma linha de raciocínio direta. Comente o código em pontos que julgar necessário para o entendimento total;
+
+3. Utilização dos recursos aprendidos durante o módulo.
+
+
+### Informações gerais
+
+- O projeto pode ser desenvolvido individualmente ou em grupo
+
+- Entrega (em definição).
+
+Anexar, na entrega, o código (notebook ou script python) desenvolvido e os arquivos gerados.
+
+### Tarefas: Iniciando Construção do Projeto
+
+#### 1. Criar uma estrutura de dados que armazene as vendas realizadas em uma loja.
+
+#### 2. Implemente uma função que solicite ao usuário a ação desejada (Incluir ou Excluir) um item da lista. 
+
+    Informações sobre a venda que devem constar:
+
+    - ID (incremental)
+    - Nomes dos produtos
+    - Quantidade de Produtos
+    - Valores dos produtos
+    - Nome do vendedores
+    - CPF dos compradores
+    - Datas das vendas
+    - Informações opcionais
+
 # Projeto_Técnicas_Programação_II
 
 **Execução**
