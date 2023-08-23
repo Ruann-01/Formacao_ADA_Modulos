@@ -1,0 +1,11 @@
+ID_VENDA,Nome do(s) Produto(s),Quantidade(s) do(s) Produtos,Valor(es) do(s) Produtos R$,Nome Vendedor,CPF do Comprador,Data de Venda,Informação Opcional
+1,"['Boneca', 'Caneta']","[1, 20]","[50.0, 60.0]",Fernando,"('123.456.789-10',)",15/03/2023,{''}
+2,['Panela'],[2],[50.0],Renato,"('987.456.123-01',)",12/02/2022,{''}
+3,['Fone'],[2],[15.0],Renato,"('602.034.521-49',)",15/03/2023,{''}
+4,['Boneca'],[5],[80.0],Fernando,"('456.789.121-01',)",20/03/2023,{''}
+5,['Capinhas'],[50],[100.0],Renato,"('546.217.891-03',)",25/03/2023,{''}
+6,['Frigideira'],[2],[95.0],Gabrielly,"('456.231.789-55',)",20/05/2022,{''}
+7,['Travessa'],[1],[30.0],Gabrielly,"('254.687.891-20',)",28/02/2022,{''}
+8,['Caixa de Som'],[1],[80.0],Gabrielly,"('154.234.565-64',)",24/04/2023,{''}
+9,['Garrafa'],[2],[30.0],Gabrielly,"('124.556.489-73',)",15/03/2023,{''}
+10,VENDA CANCELADA,,,,,,
