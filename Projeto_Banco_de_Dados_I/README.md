@@ -1,5 +1,5 @@
 # Projeto Banco de Dados I
-####Instrutor: Lucas Ximenes
+##### Instrutor: Lucas Ximenes
 ### Modelagem e normalização de bancos de dados relacionais
 Certo dia, um dos gestores do banco em que você trabalha como cientista de dados procurou você pedindo ajuda para projetar um pequeno banco de dados com o objetivo de mapear os clientes da companhia pelos diferentes produtos financeiros que eles contrataram.
 
