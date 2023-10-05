@@ -7,7 +7,7 @@ O orientador deste projeto foi Felipe Yoshimoto, professor na Ada Tech no progra
 ## Estrutura
 Os arquivos estão organizados em um jupyter notebook e um arquivo .parquet com os dados
 ## Método
-Realizamos análises estatísticas para fazer uma análise exploratória baseada num dataset mascarado de tráfego dos correios no ano de 2023
+Realizamos análises estatísticas para fazer uma análise exploratória baseada num dataset mascarado de tráfego da empresa de logística no ano de 2023
 ## Bibliotecas
 As bibliotecas utilizadas foram indicadas no arquivo ipynb
 ##
