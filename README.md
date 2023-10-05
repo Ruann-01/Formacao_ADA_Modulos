@@ -139,3 +139,18 @@ Tabela 2
     b) Inserir pelo menos 1 aluno alocado em cada uma destas turmas na tabela aluno (todos com NULL na coluna aluno_alocado);
     c) Inserir pelo menos 2 alunos não alocados em nenhuma turma na tabela aluno (todos com NULL na coluna aluno_alocado);
     d) Atualizar a coluna aluno_alocado da tabela aluno, de modo que os alunos associados a uma disciplina recebam o valor True e alunos não associdos a nenhuma disciplina recebam o falor False para esta coluna.
+
+# Projeto_Estatística
+# Análise Exploratória Estatística dos Correios
+Análise do tráfego dos correios no ano de 2023, ponderando sobre métricas escolhidas e levantando pontos relevantes.
+## Equipe
+A equipe que realizou este projeto é composta por: Gabriel Miranda, Marcus Thadeu, Ruann Campos e Thiago Caveglion
+## Orientador
+O orientador deste projeto foi Felipe Yoshimoto, professor na Ada Tech no programa Santander Coders 2023 na disciplina de Estatística I
+## Estrutura
+Os arquivos estão organizados em um jupyter notebook e um arquivo .parquet com os dados
+## Método
+Realizamos análises estatísticas para fazer uma análise exploratória baseada num dataset mascarado de tráfego dos correios no ano de 2023
+## Bibliotecas
+As bibliotecas utilizadas foram indicadas no arquivo ipynb
+##
