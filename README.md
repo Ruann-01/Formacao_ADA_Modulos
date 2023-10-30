@@ -155,9 +155,8 @@ Realizamos análises estatísticas para fazer uma análise exploratória baseada
 As bibliotecas utilizadas foram indicadas no arquivo ipynb
 ##
 
+# Projeto - Machine Learning I
 # [Detecção de fraude em transações de cartões de crédito utilizando modelos classificatórios de Machine Learning](https://github.com/grmirand4/sc2023-deteccao-fraude-machine-learning)
-
-**Projeto - Machine Learning I**
 
 Instrutor: [Carlos Stefano](https://www.linkedin.com/in/carlos-stefano/)
 
